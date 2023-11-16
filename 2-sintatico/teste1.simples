@@ -1,0 +1,11 @@
+programa teste
+/* este eh um programa exemplo da 
+    linguagem simples */
+    inteiro a # lalala
+            b 
+
+inicio 
+    leia a
+    b <- a + 10
+    escreva b
+fimprograma
